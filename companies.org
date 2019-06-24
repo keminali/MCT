@@ -1,0 +1,130 @@
+* Industry
+
+杭齿集团, 1.5 Mkw
+
+
+Marine Current Turbines Limited's, 
+
+European Marine Energy Centre (EMEC
+
+OpenHydro, atlantis,
+
+Scotrenewable
+
+
+[[https://simecatlantis.com/][Atlantis]] turbine: Solon,
+
+Global Ocean Energy Symposium
+
+https://www.atlantisresourcesltd.com/services/turbines/history/
+European Marine Energy Centre
+
+the european marine energy centre LTD
+
+[[http://www.emec.org.uk/marine-energy/tidal-developers][a list of companies]]
+[[https://www.atlantisresourcesltd.com/services/turbines/][atlantis]] RESOURCES LTD
+company  country  device name device type
+Andritz Hydro Hammerfest	Norway	HS1000	Horizontal Axis Turbine
+Aquantis Ltd	USA	AQ Series	
+Atlantis Resources Corp	UK	AR-1500	Horizontal Axis Turbine
+Atlantis Resources Corp	UK	AR-1000	Horizontal Axis Turbine
+Atlantisstrom	Germany	Atlantisstorm	Horizontal Axis Turbine
+Balkee Tide and Wave Electricity	Mauritius	Tidal and Wave Power Electrical Generator (TWPEG)	Horizontal Axis Turbine
+BioPower System Pty Ltd	Australia	bioStream	Other
+Bluewater	Netherlands	BlueTEC (Bluewater Tidal Energy Converter)	Other
+Bosch Rexroth	Germany		Horizontal Axis Turbine
+Bourne Energy	USA	CurrentStar	Horizontal Axis Turbine
+Bourne Energy	USA	TidalStar	Horizontal Axis Turbine
+Bourne Energy	USA	OceanStar	Horizontal Axis Turbine
+Centro Tecnologico SOERMAR	Spain	PROCODAC	
+Cetus Energy	Australia	Cetus Turbine	Horizontal Axis Turbine
+Current Power AB	Sweden	Current Power	Vertical Axis Turbine
+Current2Current	UK	Tidal Turbine	Vertical Axis Turbine
+Deepwater Energy BV	Netherlands	Oryon Watermill	Vertical Axis Turbine
+EC-OG	UK	Subsea Power Hub	Vertical Axis Turbine
+EEL Energy	France	EEL Energy	Oscillating Hydrofoil
+Elemental Energy Technology Limited	Australia	SeaUrchin	Other
+Flex Marine Power Ltd	UK	Swimmer Turbine	
+Flumill	Norway	Flumill Power Tower	Archimedes Screw
+Free Flow 69	UK	Osprey	Vertical Axis Turbine
+Free Flow Power Corporation	USA	SmarTurbine	Horizontal Axis Turbine
+GCK Technology	USA	Gorlov Turbine	Vertical Axis Turbine
+Guinard Energies SAS	France	MagaWattBlue	
+Hales Water Turbines Ltd	UK	Hales Turbine	Other
+Hydra Tidal AS	Norway	Morild II	Horizontal Axis Turbine
+Hydro Alternative Energy	USA	OCEANUS	
+Hydro-Gen	France	Hydro-Gen	Horizontal Axis Turbine
+HydroQuest	France	Hydroquest Tidal	Vertical Axis Turbine
+Hydrovolts Inc	USA	C-12 Canal Turbine	Horizontal Axis Turbine
+Hydrovolts Inc	USA	WF-10-15 Waterfall Turbine	Other
+Hyundai Heavy Industries	Korea		
+IHC Tidal Energy	Netherlands	OceanMill	Vertical Axis Turbine
+InCurrent Turbines Ltd	Canada	Vortex Power Drive	
+Instream Energy Systems	Canada	Vertical Axis Hydrokinetic Turbines (VAHT)	Vertical Axis Turbine
+Integrated Power Technology Corporation	USA	TURBOFOIL	Oscillating Hydrofoil
+Jupiter Hydro Inc	Canada		Archimedes Screw
+Kawasaki Heavy Industries, Ltd	Japan		Horizontal Axis Turbine
+Kepler Energy	UK	Kepler Turbine	Other
+Leading Edge	US		Oscillating Hydrofoil
+Lucid Energy Technologies	USA	Gorlov Helical Turbine (GHT)	Vertical Axis Turbine
+Lunar Energy	UK	Rotech Tidal Turbine (LTT)	Enclosed tips (Venturi)
+Magallanes Renovables	Spain	Magallanes Project	Horizontal Axis Turbine
+Mako Tidal Turbines	Australia	MAKO Tidal Turbines	Horizontal Axis Turbine
+Marine Current Turbines	UK	SeaGen S	Horizontal Axis Turbine
+Marine Current Turbines	UK	SeaGen U	Horizontal Axis Turbine
+Marine Energy Corporation	USA	Current Catcher	Horizontal Axis Turbine
+Minesto	Sweden	Deep Green	Tidal Kite
+Modec	Japan	Savonius Keel & Wind Turbine Darrieus (SKWID)	Other
+Natural Currents	USA	Red Hawk	Other
+Nautricity Ltd	UK	CoRMaT	Horizontal Axis Turbine
+New Energy Corporation	Canada	EnviroGen/EnviroCurrent	Vertical Axis Turbine
+Norwegian Ocean Power	Norway	H300	Vertical Axis Turbine
+Nova Innovation Ltd	UK	Nova M100	Horizontal Axis Turbine
+Ocean Flow Energy	UK	Evopod	Horizontal Axis Turbine
+Ocean Renewable Power Company (ORPC)	USA	RivGen Power System	Horizontal Axis Turbine
+Ocean Renewable Power Company (ORPC)	USA	TidGen Power System	Horizontal Axis Turbine
+Ocean Renewable Power Company (ORPC)	USA	OCGen	Horizontal Axis Turbine
+Oceana Energy Company	USA	TIDES	Horizontal Axis Turbine
+Offshore Islands Ltd	USA	Current Catcher	Horizontal Axis Turbine
+Open Ocean Energy Ltd	Ireland	Tidal Junior Flyer	
+OpenHydro	Ireland	Open-Centre Turbine	Enclosed tips (Venturi)
+QED Naval	Scotland	Subhub	Other
+REAC Energy GmbH	Germany	StreamCube	Vertical Axis Turbine
+Renewable Devices Marine Ltd	UK	Capricon 5	Horizontal Axis Turbine
+Renewable Devices Marine Ltd	UK	River Otter	
+Renewable Devices Marine Ltd	UK	Capricon 125	Horizontal Axis Turbine
+Renewable Devices Marine Ltd	UK	Sea Otter	
+Repetitive Energy Company	UK	REPEN6	Vertical Axis Turbine
+ResHydro	USA	Hydrofoil Cascade Resonator (HCR)	Oscillating Hydrofoil
+SABELLA SAS	France	D03	Horizontal Axis Turbine
+SCHOTTEL group	Germany	STG (SCHOTTEL Tidal Generator)	Horizontal Axis Turbine
+Scotrenewables	UK	SR2000	Horizontal Axis Turbine
+SeaCurrent	The Netherlands	SeaCurrent TidalKite™	Tidal Kite
+SeaPower Gen	UK	SPG	
+Seapower scrl	Italy	GEM	Tidal Kite
+SMD Hydrovision	UK	TiDEL	Horizontal Axis Turbine
+Straum AS	Norway	Hydra Tidal	Horizontal Axis Turbine
+Suanders Energy Ltd	UK	Power-Frame	Horizontal Axis Turbine
+Sustainable Marine Energy (SME)	UK	PLAT-O	Horizontal Axis Turbine
+Tidal Energy Ltd	UK	DeltaStream	Horizontal Axis Turbine
+Tidal Energy Pty Ltd	Australia	Davidson Hill Venturi (DHV) Turbine	Enclosed tips (Venturi)
+Tidal Sails AS	Norway	Tack Reach	Other
+TidalStream Limited	UK	Triton 6 (Tidal Turbine Platform System)	Horizontal Axis Turbine
+TidalStream Limited	UK	Triton 3 (Tidal Turbine Platform System)	Horizontal Axis Turbine
+Tidalys	France	ELECTRImar 4200	Horizontal Axis Turbine
+Tidalys	France	ELECTRImar 1800	Horizontal Axis Turbine
+Tocardo Tidal Turbines	Netherlands	T2	Horizontal Axis Turbine
+Verdant Power	USA	Free Flow Kinetic Hydropower System (KHPS)	Horizontal Axis Turbine
+Vortex Hydro Energy	USA	VIVACE (Vortex Induced Vibrations Aquatic Clean Energy)	Other
+Vortex Power Drive	USA	Vortex Power Drive	
+Water Wall Turbine Inc	Canada	Water Wall Turbine - In-Flow Water Current Technology	Horizontal Axis Turbine
+
+Marine Current Turbines (MCT) SeaGen team 
+Atlantis AR1500 team
+
+Alstom
+http://www.atlantiscorp.co.za/marine_projects.htm
+http://www.alstom.com/products-services/product-catalogue/power-generation/renewable-energy/ocean-energy/tidal-energy/tidal-power
+http://www.fp7-cores.eu/
+https://tethys.pnnl.gov/about-tethys
+
