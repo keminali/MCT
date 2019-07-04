@@ -1,9 +1,10 @@
 * Conferences
-European Wave and Tidal Energy Conference
+European Wave & Tidal Energy Conference
 
 Asian Wave and Tidal Energy Conference 
 
 International Conference on Ocean, Offshore and Arctic Engineering
+
 
 Offshore Energy Exhibition & Conference 2018
 
@@ -13,8 +14,27 @@ Eleventh International Symposium on Turbulence and Shear Flow Phenomena (TSFP11)
 
 AIAA Computational Fluid Dynamics Conference 
 
+
+
 European Conference on Computational Fluid Dynamics
 
 World Congress on Computational Mechanics
 
 [[https://ukfluidsconference2018.weebly.com/contact.html][uk fluids conference]]
+
+** 全国海洋能学术研讨会
+authors:
+[[http://www.civil.tsinghua.edu.cn/he/essay/343/1443.html][张永良]] - 清华大学水利水电工程系
+林斌良- 清华大学水利水电工程系
+[[http://sec.hrbeu.edu.cn/2015/1221/c951a2422/page.htm][张亮]] - 哈尔滨工程大学船舶工程学院
+[[http://people.ucas.edu.cn/~0000259][游亚戈]] -研究员-  中国科学院 广州能源研究所
+
+陈国海- 中国水电顾问集团华东勘测设计研究院
+[[http://www.sio.org.cn/][自然资源部第二海洋研究所]]
+
+
+
+
+
+
+
